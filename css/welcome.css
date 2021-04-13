@@ -1,0 +1,62 @@
+@media screen and (min-width: 600px) {
+
+    /* Hitokoto Page */
+    .hitokoto-fullpage {
+        width: 55%;
+    }
+
+    /* Content Style */
+    .hitokoto-content {
+        /*border-radius: 2px;*/
+        padding: 80px 56px;
+        margin-bottom: 80px;
+    }
+
+}
+@media screen and (max-width: 600px) {
+
+
+
+
+
+
+
+
+}
+/* Hitokoto Page */
+.hitokoto-fullpage {
+    position: relative;
+    color: white;
+    z-index: 1;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', '微软雅黑', Arial, sans-serif;
+}
+
+.hitokoto-fullpage .bracket {
+    font-size: 30px;
+}
+
+.hitokoto-fullpage .bracket.left {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.hitokoto-fullpage .bracket.right {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.hitokoto-fullpage .word {
+    font-size: 2.3rem;
+    text-align: center;
+    line-height: 50px;
+    word-break: normal;
+    margin: 0;
+    padding: 15px 50px;
+}
+
+
+

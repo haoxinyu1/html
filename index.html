@@ -1,0 +1,285 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <title>Hello World</title>
+  <link rel="stylesheet" href="http://www.anlc.vip/template/default_pc/html/index/css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://www.anlc.vip/template/default_pc/html/index/css/simple-bs-dialog.css">
+  <link rel="icon" href="http://www.anlc.vip/template/default_pc/html/index/favicon.ico">
+      <link rel="stylesheet" href="http://app.anlc.vip/template/default_pc/html/index/css/welcome.css">
+  <style>
+    * {
+      margin: 0; 
+      padding: 0;
+      cursor: url(http://www.anlc.vip/template/default_pc/html/index/images/cur.png), default!important
+    }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    #container {
+      overflow: hidden;
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+    }
+
+    #background_video {
+      position: absolute;
+
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+
+      object-fit: cover;
+      height: 100%; width: 100%;
+    }
+
+    #video_cover {
+      position: absolute;
+
+      width: 100%; height: 100%;
+
+      background: url(&#x27;&#x27;) no-repeat;
+      background-size: cover;
+      background-position: center;
+    }
+
+    #video_controls {
+      position: absolute;
+      left: 50%;
+      transform: translate(-50%, 0);
+    }
+
+    #play img {
+      width: 100px;
+    }
+    #pause img {
+      width: 90px;
+    }
+    #pause {
+      display: none;
+    }
+
+    @media (min-width: 768px) {
+      #video_controls {
+        display: none;
+      }
+    }
+
+    /* Demo page specific styles */
+
+    body {
+      text-align: center;
+      font-family: &#x27;proxima-nova&#x27;, Helvetica;
+    }
+
+    #container {
+      height: 100%;
+    }
+
+    #overlay {
+      position: absolute;
+      top: 0; right: 0; left: 0; bottom: 0;
+      background: rgba(0,0,0,0.5);
+    }
+
+    #main_content {
+      z-index: 2;
+      position: relative;
+      display: inline-block;
+      top: 50%;
+      transform: translateY(-50%);
+      border:2px solid rgba(0,0,0,0.2);
+      padding: 20px;
+      border-radius: 10px 10px 10px 10px;
+      transition: 0.3s;
+    }
+
+    #main_content:hover{
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
+
+    #main_content h1 {
+      font-weight: 300;
+      font-family: &#x27;proxima-nova&#x27;, Helvetica;
+      color: #fff;
+      font-size: 35px;
+      padding-bottom: 5px;
+    }
+
+    #main_content .sub_head {
+      font-weight: bold;
+      background: linear-gradient(to right, pink,orange);
+      -webkit-background-clip: text;
+      color: transparent;
+      animation: blink 1s linear infinite;
+      -webkit-animation: blink 2s linear infinite;
+      -moz-animation: blink 2s linear infinite;
+      -ms-animation: blink 2s linear infinite;
+      -o-animation: blink 2s linear infinite;
+      letter-spacing: 5px;
+    }
+
+    @keyframes blink{
+      0%{opacity: 1;}
+      50%{opacity: 0.5;}
+      100%{opacity: 0.8;}
+    }
+    @-webkit-keyframes blink {
+      0% { opacity: 1; }
+      50%{ opacity: 0.5;}
+      100% { opacity: 0.8; }
+    }
+    @-moz-keyframes blink {
+    0% { opacity: 1; }
+    50%{ opacity: 0.5; }
+    100% { opacity: 0.8; }
+    }
+    @-ms-keyframes blink {
+    0% { opacity: 1; }
+    50%{ opacity: 0.5; }
+    100% { opacity: 0.8;}
+    }
+    @-o-keyframes blink {
+    0% { opacity: 1; }
+    50%{ opacity: 0.5; }
+    100% { opacity: 0.8; }
+    }
+
+    #main_content .info {
+      color: rgba(255,255,255,0.5);
+      font-size: 13px;
+      margin-top: 10px;
+      letter-spacing:5px;
+    }
+
+    #links {
+      margin-top: 50px;
+    }
+
+    #links a {
+      border: 2px solid rgba(255,255,255,0.20);
+      border-radius: 61px;
+      font-size: 12px;
+      color: #FFFFFF;
+      letter-spacing: 1px;
+      text-decoration: none;
+      text-transform: uppercase;
+      padding: 10px 25px;
+      display: inline-block;
+      margin-right: 15px;
+    }
+
+    #footer {
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+    }
+    #footer a {
+      color: rgba(255,255,255,0.5);
+      text-decoration: none;
+      margin: 10px;
+      font-size: 12px;
+    }
+    #footer a:first-child {
+      float: left;
+    }
+    #footer a:last-child {
+      float: right;
+    }
+    .btns{
+      font-size: 5px;
+      margin-top: 10px;
+      padding: 5px 5px 5px 5px;
+      border:2px solid #fff;
+      border-radius: 10px 10px 10px 10px;
+      outline: none;
+      color:pink;
+      opacity: 0.7;
+      background-color:transparent;
+    }
+    .btns:hover{
+      border:2px solid orange;
+      color:salmon;
+      outline: none;
+    }
+  </style>
+
+
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+</head>
+     <body style="padding:12% 5% 5% 5%;background-image:url();">
+       
+          <p>
+          	<img style="border-radius:50%;max-width:100px;max-height:100px;" src="http://q2.qlogo.cn/headimg_dl?dst_uin=3014809180&spec=100"></p>
+                <!-- <h1 style="color:#fff;"><strong>开心就好</strong>-->
+             </h1>
+             <main class="mdl-layout__content">
+  <div class="page-content">
+    <!--hitokoto一言-->
+    <div class="hitokoto-fullpage animated fadeIn">
+      <div class="bracket left">『</div>
+      <div class="word" id="hitokoto"><script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script></div>
+      <div class="bracket right">』</div>
+    </div>
+  </div>
+</main>
+           <p style="line-height:3;">
+         </p><p><script src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
+            <span style="color:#bd8787;">您的IP:<script>
+                    document.write(returnCitySN["cip"])
+                   </script></span>
+         </p>
+         <p style="color:#fff;">您的地址:<script>
+                    document.write(returnCitySN["cname"])
+                   </script></br>© <a style="text-decoration:none;color:#fff;" href="http://app.anlc.vip/">开心就好</a>.版权所有</p>
+                   <script type="text/javascript" color="255,255,255" opacity='0.7' zIndex="-2" count="200" src="http://www.anlc.vip/template/default_pc/html/index/style/js/canvas-nest.min.js"></script>
+        </div>
+     
+</body>
+
+
+<video id="v1" autoplay loop muted>
+<source src="https://uujs.ml/api/v3/file/source/131/CG.mp4?sign=hJ-UVnAYewZSYgdExk6Ym8j3pOYzAJHBPATQKJzyOlM%3D%3A0" type="video/mp4"></video>
+<!--音乐
+<embed src="media/123.mp3" autostart="true" loop="1" controls="ControlPanel" width="0" height="0">-->
+<script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.js"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<script src="https://myhkw.cn/api/player/1618229175100" id="myhk" key="1618229175100" m="1"></script>
+<!--音乐-->
+<!--喵-->
+<style>.qqanimate{display:block;position:fixed;left:5px;bottom:25px;z-index:9999999;}</style>
+<a target="_blank" class="qqanimate"><img src="http://www.anlc.vip/template/default_pc/html/index/images/123.gif" width="173px" height="240px">
+<script>if(getCookie("m_qq1")!='true')
+{
+$(".indexpingbi").css("display","block");
+$(".indextanchu").css("display","block");
+}
+$(".indextanchu").live('click',function(e) {
+$(".indexpingbi").css("display","none");
+$(".indextanchu").css("display","none");
+setCookie1("m_qq1","true","d365");});
+function getCookie(name) { var dc = document.cookie; var prefix = name + "="; var begin = dc.indexOf("; " + prefix); if(begin == -1) { begin = dc.indexOf(prefix); if(begin != 0) return null } else { begin += 2 } var end = document.cookie.indexOf(";", begin); if(end == -1) { end = dc.length } return unescape(dc.substring(begin + prefix.length, end)) };
+function setCookie1(name, value, time) { var strsec = getsec(time); var exp = new Date(); exp.setTime(exp.getTime() + strsec * 1); document.cookie = name + "=" + escape(value) + "; path=/;expires=" + exp.toGMTString(); }  function getsec(str) { var str1 = str.substring(1, str.length) * 1; var str2 = str.substring(0, 1); if(str2 == "s") { return str1 * 1000; } else if(str2 == "h") { return str1 * 60 * 60 * 1000; } else if(str2 == "d") { return str1 * 24 * 60 * 60 * 1000; } }  Array.prototype.ArrDelVal = function(val) { for(var i = 0; i < this.length; i++) { if(this[i] == val) { this.splice(i, 1); break; } } }</script>
+<!--喵-->
+
+<!--树-->
+<style type="text/css"> img{border:0px;} #hao{position:fixed!important;position:absolute;right:0;bottom:0;top:expression(offsetParent.scrollTop+offsetParent.clientHeight-150);cursor:pointer;}</style> 
+<div id="hao" style="width: 174px;height: 264px;z-index:9999;text-align:right;">
+<div> <a target="_blank"><img src="http://www.anlc.vip/template/default_pc/html/index/images/1234.gif" width="173px" height="240px"></a></div></div>
+<!--树-->
+<script type="text/Javascript">function inlobase_noF12(){while(1){}}function inlojv_console(){if((window.console&&(console.firebug||console.table&&/firebug/i.test(console.table())))||(typeof opera=="object"&&typeof opera.postError=="function"&&console.profile.length>0)){inlobase_noF12()}if(typeof console.profiles=="object"&&console.profiles.length>0){inlobase_noF12()}}inlojv_console();window.onresize=function(){if((window.outerHeight-window.innerHeight)>200){inlobase_noF12()}};</script>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="Copyright" content>
+<meta name="description" content>
+<meta content name="keywords">
+<title></title>
+</head>
+<body oncontextmenu="window.event.returnValue=false" onkeypress="window.event.returnValue=false" onkeydown="window.event.returnValue=false" onkeyup="window.event.returnValue=false" ondragstart="window.event.returnValue=false" onselectstart="event.returnValue=false"> 
+</body> 
+
+</html></a>

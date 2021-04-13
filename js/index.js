@@ -1,0 +1,1 @@
+(function hitokoto(){var hitokoto="尚未决定清与浊的心，是否能成为自己的眼睛？";var dom=document.querySelector('#hitokoto');Array.isArray(dom)?dom[0].innerText=hitokoto:dom.innerText=hitokoto;})()
