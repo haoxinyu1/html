@@ -337,22 +337,28 @@ IPV6卫视,#genre#
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1760443122_1005229296/ott.mobaibox.com/PLTV/3/224/3221227627/index.m3u8?icpid=3&RTS=1674386170&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw344783417_-2074848205/ott.mobaibox.com/PLTV/3/224/3221225844/index.m3u8?icpid=3&RTS=1674380460&from=40&popid=40&hms_devi
 P2P测试,#genre#
-CCTV-1 ,p2p://108.181.32.169:57720/64260c74000c73e9edfa2a0e354364a8
-CCTV-2 ,p2p://108.181.32.169:57720/64260c83000b5f74edfa64604fe67a12
-CCTV-3 ,p2p://108.181.32.169:57720/64260c9b0000ca3dedfabf6a10b00144
-CCTV-4 ,p2p://108.181.32.169:57720/64260ca5000de050edfae9d444575946
-CCTV-5 ,p2p://108.181.32.169:57720/64260cb0000afd53edfb140f10811127
-CCTV-5+,p2p://108.181.32.169:57720/64260cbc00081417edfb42307c984dd4
-CCTV-6,p2p://108.181.32.169:57720/64260cc800087ffdedfb712c61a06569
-CCTV-7,p2p://108.181.32.169:57720/64260cd9000ba7ebedfbb46356b665a0
-CCTV-8,p2p://108.181.32.169:57720/64260ce50007141fedfbe217161d5245
-CCTV-9,p2p://108.181.32.169:57720/64260cef0008fa21edfc09a37d024704
-CCTV-10,p2p://108.181.32.169:57720/64260d0a000e81f1edfc74866d9b5c0f
-CCTV-11,p2p://108.181.32.169:57720/64260dce0000aea8edff6e9d426b2704
-CCTV-12,p2p://108.181.32.169:57720/64260e37000ca83aee010bd5707e0fea
-CCTV-13,p2p://108.181.32.169:57720/64260e45000ccab2ee01428e6da4043d
-CCTV-14,p2p://108.181.32.169:57720/64260e4f0007169bee0168271778447e
-CCTV-15,p2p://108.181.32.169:57720/64260e5a000a63ffee0193f872fa5767
+凤凰资讯,http://180.143.86.39:8282/tsfile ... live=1&authid=0
+凤凰资讯,http://113.117.74.99:8081/hls/36/index.m3u8#[url]http://113.117.74.52:8081/hls/36/index.m3u8[/url]
+凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰资讯,http://udnhls.skilldns.com:80/fhzx.m3u8
+凤凰资讯,http://27.155.132.146:4022/udp/239.61.2.183:9086
+凤凰中文,http://27.155.132.146:4022/udp/239.61.2.184:9092
+凤凰卫视,http://180.143.86.39:8282/tsfile ... live=1&authid=0
+凤凰卫视,http://113.117.74.99:8081/hls/37/index.m3u8
+凤凰卫视,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰资讯,https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+凤凰卫视,https://edge2.laotv.la/live/PhxChinese/index.m3u8
+凤凰资讯,http://50.7.238.114:8278/phoenix ... f74838380086dce3e44
+凤凰资讯,http://198.16.100.90:8278/phoeni ... 98ea603b13ef749a84e
+凤凰资讯,http://198.16.100.90:8278/phoeni ... db64b6c03601da1e0e0
+凤凰资讯,http://198.16.100.90:8278/phoeni ... f74838380086dce3e44
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8
+凤凰资讯,http://221.7.175.154:8445/tsfile ... live=1&authid=0
+凤凰资讯,http://50.7.238.114:8278/phoenix ... db64b6c03601da1e0e0
+凤凰资讯,http://feng163.com:9001/bysid/83
+凤凰卫视,http://198.16.100.90:8278/phoeni ... 14ab83db57245220068
+凤凰卫视,http://www.372583307.top:4022/udp/233.50.200.192:5140
+凤凰卫视,http://50.7.238.114:8278/phoenix ... bd534c9cef5e2c17c1c
 港台测试,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
