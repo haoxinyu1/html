@@ -354,8 +354,8 @@ CCTV-13,p2p://108.181.32.169:57720/64260e45000ccab2ee01428e6da4043d
 CCTV-14,p2p://108.181.32.169:57720/64260e4f0007169bee0168271778447e
 CCTV-15,p2p://108.181.32.169:57720/64260e5a000a63ffee0193f872fa5767
 港台测试,#genre#
-凤凰卫视中文台,https://ali.hlspull.yximgs.com/live/cba3e2b459d18d3f9508344ad78612c8.flv
-凤凰卫视资讯台,https://ali.hlspull.yximgs.com/live/cd8555488aa38d9e46b228323478bc64.flv
+凤凰卫视中文台,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8 
+凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 民视,P2p://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 大爱,P2p://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
