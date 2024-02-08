@@ -337,6 +337,22 @@ IPV6卫视,#genre#
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1760443122_1005229296/ott.mobaibox.com/PLTV/3/224/3221227627/index.m3u8?icpid=3&RTS=1674386170&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw344783417_-2074848205/ott.mobaibox.com/PLTV/3/224/3221225844/index.m3u8?icpid=3&RTS=1674380460&from=40&popid=40&hms_devi
 P2P测试,#genre#
+港台测试,#genre#
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8#http://[2409:8087:7000:20::16]/wh7f454c46tw1896598617_1269517560/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226547/index.m3u8?0.smil%EF%BC%8C%EF%BC%8C%EF%BC%8C%EF%BC%8C0%EF%BC%8C31&icpid=88888893&RTS=1700881960&from=20&hms_devid=523&prioritypopid=20&online=1700881960&vqe=3
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8#http://[2409:8087:7000:20::17]/wh7f454c46tw1814858641_793344004/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226546/index.m3u8?0.smil%EF%BC%8C%EF%BC%8C%EF%BC%8C%EF%BC%8C0%EF%BC%8C30&icpid=88888893&RTS=1700881878&from=20&ocs=2_2409:8087:7000:20::13_80&hms_devid=443&prioritypopid=20&online=1700881878&vqe=3
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8#http://[2409:8087:7000:20::16]/wh7f454c46tw1896598617_1269517560/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226547/index.m3u8?0.smil%EF%BC%8C%EF%BC%8C%EF%BC%8C%EF%BC%8C0%EF%BC%8C31&icpid=88888893&RTS=1700881960&from=20&hms_devid=523&prioritypopid=20&online=1700881960&vqe=3
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8#http://[2409:8087:7000:20::17]/wh7f454c46tw1814858641_793344004/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226546/index.m3u8?0.smil%EF%BC%8C%EF%BC%8C%EF%BC%8C%EF%BC%8C0%EF%BC%8C30&icpid=88888893&RTS=1700881878&from=20&ocs=2_2409:8087:7000:20::13_80&hms_devid=443&prioritypopid=20&online=1700881878&vqe=3
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8 
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰资讯,http://180.143.86.39:8282/tsfile ... live=1&authid=0
 凤凰资讯,http://113.117.74.99:8081/hls/36/index.m3u8#[url]http://113.117.74.52:8081/hls/36/index.m3u8[/url]
 凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
@@ -359,22 +375,24 @@ P2P测试,#genre#
 凤凰卫视,http://198.16.100.90:8278/phoeni ... 14ab83db57245220068
 凤凰卫视,http://www.372583307.top:4022/udp/233.50.200.192:5140
 凤凰卫视,http://50.7.238.114:8278/phoenix ... bd534c9cef5e2c17c1c
-港台测试,#genre#
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8#http://[2409:8087:7000:20::16]/wh7f454c46tw1896598617_1269517560/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226547/index.m3u8?0.smil%EF%BC%8C%EF%BC%8C%EF%BC%8C%EF%BC%8C0%EF%BC%8C31&icpid=88888893&RTS=1700881960&from=20&hms_devid=523&prioritypopid=20&online=1700881960&vqe=3
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8#http://[2409:8087:7000:20::17]/wh7f454c46tw1814858641_793344004/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226546/index.m3u8?0.smil%EF%BC%8C%EF%BC%8C%EF%BC%8C%EF%BC%8C0%EF%BC%8C30&icpid=88888893&RTS=1700881878&from=20&ocs=2_2409:8087:7000:20::13_80&hms_devid=443&prioritypopid=20&online=1700881878&vqe=3
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8#http://[2409:8087:7000:20::16]/wh7f454c46tw1896598617_1269517560/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226547/index.m3u8?0.smil%EF%BC%8C%EF%BC%8C%EF%BC%8C%EF%BC%8C0%EF%BC%8C31&icpid=88888893&RTS=1700881960&from=20&hms_devid=523&prioritypopid=20&online=1700881960&vqe=3
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8#http://[2409:8087:7000:20::17]/wh7f454c46tw1814858641_793344004/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226546/index.m3u8?0.smil%EF%BC%8C%EF%BC%8C%EF%BC%8C%EF%BC%8C0%EF%BC%8C30&icpid=88888893&RTS=1700881878&from=20&ocs=2_2409:8087:7000:20::13_80&hms_devid=443&prioritypopid=20&online=1700881878&vqe=3
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8 
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+星空卫视,http://183.237.246.14:9003/hls/40/index.m3u8
+星空卫视,http://120.236.57.77:9901/tsfile/live/1106_1.m3u8
+星空卫视,http://119.91.206.244:16888/api/gd.php?id=xingkong_1500
+星空卫视HD,http://www.namewee.xyz/gudou.php?id=364&id=xingkong_1500
+星空卫视,http://120.236.57.77:9901/tsfile ... live=1&authid=0
+星空卫视,http://171.108.239.100:8181/tsfi ... live=1&authid=0
+星空卫视,http://103.95.24.37:880/xkws.m3u8
+星空卫视,http://lu1.cc/itv/php/gudou.php?id=xkws
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+凤凰卫视,http://www.pr666.site:4040/udp/239.255.30.123:8231
+凤凰卫视资讯台,http://113.117.74.18:8081/hls/36/index.m3u8
+凤凰卫视资讯台,http://113.117.74.27:8081/hls/36/index.m3u8
+凤凰卫视,http://221.7.175.154:8445/tsfile ... live=1&authid=0
+凤凰卫视咨询台,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8
+凤凰卫视,http://103.95.24.37:880/fhws.m3u8
+凤凰卫视中文台,http://wot2020.asuscomm.com:20121/bysid/258
+凤凰卫视资讯台,http://wot2020.asuscomm.com:20121/bysid/257
+凤凰卫视,http://183.94.40.44:9901/tsfile/ ... live=0&authid=0
 民视,P2p://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 大爱,P2p://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
